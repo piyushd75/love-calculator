@@ -13,7 +13,7 @@ A fun web-based project that calculates compatibility between two names.
 3. Click on the **"Calculate"** button to get your result.
 
 ## Live Demo
-[View Live Project](https://piyush75.github.io/love-calculator/)
+[View Live Project](https://piyushd75.github.io/love-calculator/)
 
 ## Technologies Used
 - HTML5
@@ -23,6 +23,6 @@ A fun web-based project that calculates compatibility between two names.
 ## Setup Instructions
 Clone this repository and open the `index.html` file in your browser:
 ```bash
-git clone https://github.com/piyush75/love-calculator.git
+git clone https://github.com/piyushd75/love-calculator.git
 cd love-calculator
 open index.html
