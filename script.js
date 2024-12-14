@@ -52,7 +52,7 @@ function calculateLove() {
         const result = document.getElementById("result");
 
 
-        let message = `${name1} and ${name2} have a love percentage of ${lovePercentage}% ❤️`;
+        let message = `<I>${name1}</I> and <I>${name2}</I> have a love percentage of ${lovePercentage}% ❤️`;
 
         // Add contextual message based on percentage
         if (lovePercentage < 20) {
